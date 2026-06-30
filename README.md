@@ -1,4 +1,4 @@
-# 🔐 PassGen - Password Generator Web App
+# PassGen - Password Generator Web App
 
 A simple, responsive Password Generator web application built with HTML, CSS, and JavaScript. It allows users to generate secure, random passwords based on custom criteria.
 
@@ -46,14 +46,7 @@ This project is built using HTML, CSS, and JavaScript. Simply clone the reposito
 That's it — no build steps or dependencies required.
 
 ### Option 2: View Live
-Visit the hosted link: **[Live Demo](#)** *(add your Vercel URL here after deployment)*
-
-## Deployment (Vercel)
-
-1. Push this project to a public GitHub repository.
-2. Go to [vercel.com](https://vercel.com) and sign in with GitHub.
-3. Click **Add New Project**, select this repository, and deploy with default settings (no build command needed since this is a static site).
-4. Once deployed, Vercel will provide a live URL.
+Visit the hosted link: **[Live Demo](#)** https://passgen-rose.vercel.app
 
 ## Folder Structure
 
@@ -77,4 +70,4 @@ KIIT University
 
 ## License
 
-This project is original work created for educational purposes. Submission purpose(Minor Project 1)
+This project is original work created for educational purposes. Submission purpose (Minor Project 1)
